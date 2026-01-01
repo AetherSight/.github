@@ -29,7 +29,7 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 ---
 
-### 🔍 [Dissector](https://github.com/AetherSight/Dissector)
+### ✂️ [Dissector](https://github.com/AetherSight/Dissector)
 
 **FFXIV 幻化装备分割微服务**
 
