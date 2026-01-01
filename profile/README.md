@@ -96,3 +96,17 @@ Made with ❤️ by [Aether Sight](https://github.com/AetherSight)
 
 </div>
 
+---
+
+## 版权声明
+
+<div align="center">
+
+**FINAL FANTASY XIV © 2010 - 2026 SQUARE ENIX CO., LTD. All Rights Reserved.**
+
+**© SQUARE ENIX CO., LTD. All Rights Reserved.**
+
+本项目与 Square Enix 无任何关联，仅用于学习和研究目的。
+
+</div>
+
