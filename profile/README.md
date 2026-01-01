@@ -50,11 +50,9 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 ## 团队成员
 
-<div align="center">
-  <a href="https://github.com/RicterZ">
-    <img src="https://github.com/RicterZ.png" width="80" height="80" alt="RicterZ">
-  </a>
-</div>
+<a href="https://github.com/RicterZ">
+  <img src="https://github.com/RicterZ.png" width="80" height="80" alt="RicterZ">
+</a>
 
 **⭐ 如果项目对您有帮助，欢迎 Star 支持！**
 
