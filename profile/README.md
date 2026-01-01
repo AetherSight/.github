@@ -40,6 +40,17 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 ---
 
+### 🔎 [Revelation](https://github.com/AetherSight/Revelation)
+
+**FFXIV 装备识别微服务**
+
+基于深度学习的装备识别服务，从图片中识别 FFXIV 装备并返回相似度结果。
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org/)
+
+---
+
 ### 🛠️ [FFXIV_TexTools_Exporter](https://github.com/AetherSight/FFXIV_TexTools_Exporter)
 
 **装备纹理导出工具**
