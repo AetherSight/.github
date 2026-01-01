@@ -56,12 +56,6 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
   </a>
 </div>
 
-## 技术栈
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
 **⭐ 如果项目对您有帮助，欢迎 Star 支持！**
 
 Made with ❤️ by [Aether Sight](https://github.com/AetherSight)
