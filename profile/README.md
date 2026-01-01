@@ -17,6 +17,18 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 ## 项目展示
 
+### 🔎 [Revelation](https://github.com/AetherSight/Revelation)
+
+**FFXIV 装备识别微服务**
+
+基于深度学习的装备识别服务，从图片中识别 FFXIV 装备并返回相似度结果。
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+---
+
 ### 🔍 [Dissector](https://github.com/AetherSight/Dissector)
 
 **FFXIV 幻化装备分割微服务**
@@ -37,19 +49,6 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org/)
-
----
-
-### 🔎 [Revelation](https://github.com/AetherSight/Revelation)
-
-**FFXIV 装备识别微服务**
-
-基于深度学习的装备识别服务，从图片中识别 FFXIV 装备并返回相似度结果。
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
