@@ -55,6 +55,13 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 用于导出 FFXIV TexTools 的纹理数据。
 
+## 开发规划
+
+1. 接入光之收藏家（ffxivsc）的数据进行重新训练
+2. 前端重构，增加 icon 支持、同模查询支持
+3. 正式上线部署，需要解决 GPU 机器问题
+4. 增加反馈接口，接受用户提交的正确数据，迭代进行模型训练
+
 ## 团队成员
 
 <a href="https://github.com/RicterZ">
