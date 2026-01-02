@@ -3,7 +3,7 @@
 **FFXIV 装备图片匹配项目**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AetherSight-181717?style=flat-square&logo=github)](https://github.com/AetherSight)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-green?style=flat-square)](LICENSE)
 
 ## 关于我们
 
