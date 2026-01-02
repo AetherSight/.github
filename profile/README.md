@@ -11,7 +11,7 @@ Aether Sight 是一个个人兴趣驱动的 FFXIV 装备图片匹配项目。
 
 ## 项目展示
 
-### 🌐 [Unveil](https://github.com/AetherSight/Unveil)
+### 🔮 [Unveil](https://github.com/AetherSight/Unveil)
 
 **FFXIV 装备识别前端服务**
 
